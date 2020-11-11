@@ -1,0 +1,13 @@
+Hangman game
+
+User opens application and sees front page with start button. 
+User can press start to start the game. 
+After users presses start, he/she can choose between easy, medium or hard level.
+A new page will be displayed, the game begins. 
+User sees an empty character input field, a greyed out outline of the whole hangman and all the letters of the alphabet. 
+User gives character input, if character input is correct the char appears in the character input field. 
+The chosen character will be greyed out.  
+If the character input is incorrect, a new part of the hangman will be displayed. The chosen character will be greyed out. 
+If the word is guessed, show a congratulations div.
+Else funny you failed div. 
+Try again? button

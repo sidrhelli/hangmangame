@@ -1,0 +1,12 @@
+In memory DB that contains all the words sorted by difficulty level
+REST API to 'talk' eith the front end
+
+- SQL : select words by difficulty level
+
+GameEngine
+    checkChar(Char char) -> against the full word 
+    boolean isWordComplete()
+    triesLeft()
+
+    field
+    array met het te raden woord.
